@@ -20,6 +20,6 @@ exit with Ctrl+C
 
 - Ensure your terminal supports ANSI escape codes
 
-# Spinning Cat ASCII Animation
+## Spinning Cat Animation
 
-![Spinning Cat Demo](https://ezgif.com/gif-to-mp4/ezgif-55bb833fb4e6b.gif)
+![Spinning Cat Demo](https://s5.ezgif.com/tmp/ezgif-55bb833fb4e6b.gif)

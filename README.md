@@ -12,7 +12,8 @@ exit with Ctrl+C
 
 ## Run the animation:
 
-    cd OIIA python3 OIIA.py
+    cd OIIA 
+    python3 OIIA.py
 
 
 ## Note: For best experience:

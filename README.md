@@ -19,3 +19,7 @@ exit with Ctrl+C
 - Run in fullscreen mode
 
 - Ensure your terminal supports ANSI escape codes
+
+# Spinning Cat ASCII Animation
+
+![Spinning Cat Demo](https://ezgif.com/gif-to-mp4/ezgif-55bb833fb4e6b.gif)

@@ -1,5 +1,5 @@
 # OIIA
-spinning cat
+spinning cat CLI
 
 ## Installation:
 

@@ -1,11 +1,6 @@
 # OIIA
 spinning cat
 
-
-exit with Ctrl+C
-
-
-
 ## Installation:
 
     git clone https://github.com/ojazzz2505/OIIA.git
@@ -13,6 +8,10 @@ exit with Ctrl+C
 
 ## Run the animation:
     python3 OIIA.py
+
+exit with Ctrl+C
+
+
 ## Note: For best experience:
 
 - Use a terminal with at least 120 columns width

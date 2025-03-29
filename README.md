@@ -22,4 +22,4 @@ exit with Ctrl+C
 
 ## Spinning Cat Animation
 
-![Spinning Cat Demo](https://s5.ezgif.com/tmp/ezgif-55bb833fb4e6b.gif)
+![Spinning Cat Demo](https://github.com/ojazzz2505/OIIA/blob/main/OIIA-ezgif.com-video-to-gif-converter%20(1).gif)

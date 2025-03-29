@@ -13,9 +13,8 @@ exit with Ctrl+C
 ## Run the animation:
 
     cd OIIA 
+
     python3 OIIA.py
-
-
 ## Note: For best experience:
 
 - Use a terminal with at least 120 columns width

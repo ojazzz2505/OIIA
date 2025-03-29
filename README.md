@@ -6,13 +6,13 @@ exit with Ctrl+C
 
 
 
-## Inisllation:
+## Installation:
 
-
+    git clone https://github.com/ojazzz2505/OIIA.git
 
 ## Run the animation:
 
-    python3 OIIA.py
+    cd OIIA python3 OIIA.py
 
 
 ## Note: For best experience:

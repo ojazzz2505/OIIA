@@ -9,11 +9,9 @@ exit with Ctrl+C
 ## Installation:
 
     git clone https://github.com/ojazzz2505/OIIA.git
+    cd OIIA
 
 ## Run the animation:
-
-    cd OIIA 
-
     python3 OIIA.py
 ## Note: For best experience:
 
